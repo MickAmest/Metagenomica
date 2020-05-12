@@ -16,6 +16,6 @@ Los análisis se realizaron usando el paquete `phyloseq`. Se evaluaron los índi
 
 De acuerdo con las gráficas de diversidad, se observa que tanto en bosques nativos y mixtos, los Phyla predominantes son los Ascomycota y Basidiomycota. Sin embargo, en bosques mixtos se observa una mayor proporción de Ascomycota en el hospedero *Quercus* comparado con *Juniperus*, así como de algunos Phyla menor representados, como Chytrodiomycota y Zoopagomycota. Sin embargo, de acuerdo con los ANOVA realizados, las diferencias en los niveles de diversidad no son significativas para ningún efecto, es decir ni entre hospederos ni entre tratamientos.
 
-En cuanto a las diferencias en la composición, la ordinacin NMDS reveló que hay una mayor agrupamiento por hospedero en los casos nativos, mientras que este agrupamiento fue menos claro en los mixtos. Sin embargo, ninguno de estos efectos fue significativo individualmente, y las diferencias solo fueron significativos cuando se consideraron ambos efectos combinados en el análisis Adonis.
+En cuanto a las diferencias en la composición, la ordinación NMDS reveló que hay una mayor agrupamiento por hospedero en los casos nativos, mientras que este agrupamiento fue menos claro en los mixtos. Sin embargo, ninguno de estos efectos fue significativo individualmente, y las diferencias solo fueron significativos cuando se consideraron ambos efectos combinados en el análisis Adonis.
 
 
